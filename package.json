@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhammikepiyumal/ProShop.git"
+  },
+  "author": "Dhammike Herath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhammikepiyumal/ProShop/issues"
+  },
+  "homepage": "https://github.com/dhammikepiyumal/ProShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
